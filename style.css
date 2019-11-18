@@ -34,14 +34,18 @@
     background-color:rgba(245, 245, 245, 0.945);
     height: 95%;
     width:59%;
-    margin:10px auto 20px;
-    padding: 25px 10px 5px;
+    margin:10px auto  20px;
+    padding: 5px 10px;
+}
+
+h4{
+    background-color: transparent;
 }
 
 article{
-    background-color: grey;
+    background-color: dimgrey;
     color:rgba(245, 245, 245, 0.945);
-    height:75%;
+    height:70%;
     margin: 35px auto;
     padding: 15px;
        
