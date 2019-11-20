@@ -57,7 +57,7 @@ article{
 aside{
     float:right;
     background:rgba(245, 245, 245, 0.945);
-    height: 95%;
+    height:95%;
     width:39%;
     margin:10px auto;
     padding:30px;
@@ -68,5 +68,3 @@ aside{
     background:rgba(245, 245, 245, 0.945);
     padding:35px;
 }
-
-  
